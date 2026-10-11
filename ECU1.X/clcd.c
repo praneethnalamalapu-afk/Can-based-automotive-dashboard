@@ -1,11 +1,3 @@
-/*
- * File:   clcd.c
- * Author: Ajay
- *
- * Created on 25 September, 2026, 7:15 PM
- */
-
-
 #include <xc.h>
 #include "clcd.h"
 
