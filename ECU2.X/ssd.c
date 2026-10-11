@@ -1,10 +1,3 @@
-/*
- * File:   ssd.c
- * Author: Ajay
- *
- * Created on 28 September, 2026, 2:08 PM
- */
-
 
 #include <xc.h>
 #include "ssd.h"
